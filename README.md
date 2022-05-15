@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VamsiMakke87
+- 👋 Hi, I’m Vamsi Makke
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning Spring framework
 - 💞️ I’m looking to collaborate on projects
