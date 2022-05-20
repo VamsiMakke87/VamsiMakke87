@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vamsi Makke
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Spring framework & Cloud
+- 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/vamsi-makke-674810213/
 
