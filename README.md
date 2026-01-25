@@ -1,17 +1,22 @@
-# 👋 Hi there, I'm Vamsi Makke
+# 👋 Hi, I’m Vamsi Makke
 
+I work on backend systems and scalable applications.  
+I like problems that are messy, ambiguous, and actually matter in production.
 
-I'm a passionate software developer with a strong interest in <b>problem-solving</b>, <b>backend development</b>, and <b>building scalable applications</b>.   I enjoy transforming ideas into robust and efficient code, and I'm always eager to learn and grow.
+Most of my time goes into designing systems, writing clean code, and shipping features that don’t fall over under load.
 
-
-<br/>
+Outside of code, I’m a huge soccer fan. I captained my college soccer team and I’m a lifelong FC Barcelona supporter. Teamwork, consistency, and showing up every day matter to me on and off the field.
 
 **Quick facts**
-- 🔍 Software Engineer at TORQ Sports  
-- 💡 Open to **collaborating** on innovative projects  
-- 🌱 Constantly learning and exploring new technologies  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vamsi-makke/)  
-- 🌐 Visit my [Portfolio Website](https://vamsi-makke-portfolio.netlify.app/)
+- 🏗️ Software Engineer at TORQ Sports  
+- ⚙️ Backend, distributed systems, and system design  
+- 🧠 Learning by building and breaking things  
+- 🤝 Always down to collaborate on solid ideas  
+- ⚽ Former college soccer captain | FC Barcelona fan  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vamsi-makke/)  
+- 🌐 [Portfolio](https://vamsi-makke-portfolio.netlify.app/)
+
+
 
 ---
 
