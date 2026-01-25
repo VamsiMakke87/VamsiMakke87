@@ -13,9 +13,6 @@ Outside of code, I’m a huge soccer fan. I captained my college soccer team and
 - 🧠 Learning by building and breaking things  
 - 🤝 Always down to collaborate on solid ideas  
 - ⚽ Former college soccer captain | FC Barcelona fan  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vamsi-makke/)  
-- 🌐 [Portfolio](https://vamsi-makke-portfolio.netlify.app/)
-
 
 
 ---
