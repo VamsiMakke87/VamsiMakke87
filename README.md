@@ -66,7 +66,7 @@ I enjoy transforming ideas into robust and efficient code, and I'm always eager 
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VamsiMakke87&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=vamsimakke87&theme=dark)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VamsiMakke87&theme=dark&hide_border=true)
 <br/>
