@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Vamsi Makke
 
-<sub>
+
 I'm a passionate software developer with a strong interest in <b>problem-solving</b>, <b>backend development</b>, and <b>building scalable applications</b>.  
 I enjoy transforming ideas into robust and efficient code, and I'm always eager to learn and grow.
-</sub>
+
 
 <br/>
 
