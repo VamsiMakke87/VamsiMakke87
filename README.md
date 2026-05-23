@@ -69,9 +69,12 @@ Outside of code, I’m a huge soccer fan. I captained my college soccer team and
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vamsimakke87&theme=dark)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VamsiMakke87&theme=dark&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiMakke87&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+-->
